@@ -79,9 +79,7 @@ python app.py
 
 
 # Project Deployed Link
+```
+https://flight-fare-predict36.herokuapp.com/predict
+```
 
-
-
-
-
-# Project Deployed Link
