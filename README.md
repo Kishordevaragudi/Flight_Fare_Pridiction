@@ -1,6 +1,6 @@
 # Flight_Fare_Pridiction
 
-# Project Title :- Flight Fare Predication
+# Project Title :- Flight Fare Prediction
 
 # Problem Statement
 
